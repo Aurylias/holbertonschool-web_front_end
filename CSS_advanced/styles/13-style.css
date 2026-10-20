@@ -8,7 +8,7 @@ body {
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
     font-weight: var(--font-weight-regular);
-    line-height: var(--line-height-base)
+    line-height: var(--line-height-base);
 }
 
 a:link {
@@ -36,7 +36,7 @@ a:active {
     color: var(--color-primary);
 }
 
-.section-header{
+.section-header {
     text-align: var(--section-header-align);
 }
 
@@ -56,7 +56,7 @@ a:active {
 }
 
 :root {
-    --color-primary: #D73953;
+    --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
     --color-light-grey: #f3f3f3;
